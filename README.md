@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @Preethy1611
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on website related 
-- 📫 How to reach me - via linkedin
-- ⚡ fact - life is very short so live happly
